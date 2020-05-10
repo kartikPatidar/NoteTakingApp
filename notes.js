@@ -70,9 +70,9 @@ try{
 }
 }
 
-module.exports = {
-    addNote: addNote,
-    removeNote: removeNote,
-    listNotes: listNotes,
-    readNote: readNote
+module.exports =  {
+    addNote,
+    removeNote,
+    listNotes,
+    readNote
 }

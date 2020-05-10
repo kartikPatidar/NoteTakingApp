@@ -1,8 +1,8 @@
-const chalk = require('chalk')
+//const chalk = require('chalk')
 //const validator = require('validator')
 const notes = require('./notes.js')
 const yargs = require('yargs')
-const fs = require('fs')
+//const fs = require('fs')
 
 
 //Customize yargs version
